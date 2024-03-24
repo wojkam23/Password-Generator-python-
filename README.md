@@ -10,7 +10,6 @@ This Python program allows you to generate random passwords of a specified lengt
 
 3. The program will display the generated password on the screen.
 
-4. You can use the generated password for your accounts or applications.
 
 Please make sure to enter a password length greater than zero. If the entered length is not a positive integer, the program will display an error message.
 
